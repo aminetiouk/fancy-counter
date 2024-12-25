@@ -1,7 +1,11 @@
-export default function App() {
+import Card from "./Components/Card";
+
+function App() {
   return (
-    <div className="App">
-      <h1>React App</h1>
-    </div>
-  )
+    <main>
+      <Card />
+    </main>
+  );
 }
+
+export default App;
