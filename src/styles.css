@@ -55,3 +55,10 @@ button {
   opacity: .6;
   letter-spacing: 1px;
 }
+
+.count {
+  color: #1d2507;
+  font-size: 200px;
+  font-weight: 600;
+  margin-top: 10px;
+}
