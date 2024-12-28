@@ -43,3 +43,15 @@ button {
   align-items: center;
   transition: all .4s;
 }
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  line-height: .9;
+  width: 200px;
+  font-weight: 500;
+  font-size: 32px;
+  margin-top: 60px;
+  opacity: .6;
+  letter-spacing: 1px;
+}
