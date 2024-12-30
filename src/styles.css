@@ -62,3 +62,9 @@ button {
   font-weight: 600;
   margin-top: 10px;
 }
+
+.reset-btn {
+  opacity: .6;
+  cursor: pointer;
+  transition: all .4s;
+}
