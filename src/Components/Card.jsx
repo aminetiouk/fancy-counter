@@ -7,9 +7,10 @@ import ButtonContainer from './ButtonContainer';
 
 export default function Card() {
   const [count, setCount] = useState(0);
+  const locked = count === 10 ? true : false;
   return (
     <div className="card">
-      <Title />
+      <Title locked={locked}/>
       <Count count={count} />
       <ResetButton setCount={setCount} />
       <ButtonContainer>
