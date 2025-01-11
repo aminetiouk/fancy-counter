@@ -44,6 +44,10 @@ button {
   transition: all .4s;
 }
 
+.card--limit {
+  background-color: #a3d11b;
+}
+
 .title {
   text-transform: uppercase;
   text-align: center;
