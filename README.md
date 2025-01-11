@@ -1,8 +1,35 @@
-# React + Vite
+# Fancy Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Fancy Counter is a simple and elegant counter application. It allows users to increment, decrement, and reset the counter with a user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
+- Increment counter
+- Decrement counter
+- Reset counter
+- User-friendly interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To install and run the Fancy Counter application, follow these steps:
+
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/aminetiouk/fancy-counter
+  ```
+2. Navigate to the project directory:
+  ```bash
+  cd fancy-counter
+  ```
+3. Install the dependencies:
+  ```bash
+  npm install
+  ```
+
+## Usage
+To start the application, run:
+```bash
+npm start
+```
+
+## Live Demo
+Check out the live demo of the Fancy Counter application [here](https://fancy-counter-gules-phi.vercel.app/).
